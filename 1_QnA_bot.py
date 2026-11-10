@@ -1,6 +1,5 @@
 from dotenv import load_dotenv 
 from langchain_google_genai import ChatGoogleGenerativeAI 
-from langchain_nvidia_ai_endpoints import ChatNVIDIA
 import streamlit as st
 
 load_dotenv() 
